@@ -13,7 +13,7 @@ Todo:
 2. Forwarding
 3. Profile page
 
-<div align="center">
+<div align="center" style="width: 100">
   <video src = "https://github.com/ShreevathsaGP/InstagramClone/assets/59483990/600e77d5-c569-44b9-91af-ee28e72431a9" width="100"/>
 </div>
 
