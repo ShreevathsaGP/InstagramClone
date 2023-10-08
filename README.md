@@ -26,7 +26,7 @@ https://github.com/ShreevathsaGP/InstagramClone/assets/59483990/600e77d5-c569-44
 https://github.com/ShreevathsaGP/InstagramClone/assets/59483990/7b94f293-a714-4f81-b7cc-4cc3ef448a48
 </div>
 
-<div style = {width: 33%>
+<div style = {width: 33%}>
 https://github.com/ShreevathsaGP/InstagramClone/assets/59483990/0616627b-e71e-4f64-9d1c-3a997ca4f90b
 </div>  
 </div>
